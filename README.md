@@ -47,9 +47,13 @@ A simple and beautiful Flutter app to calculate Body Mass Index (BMI). This app 
 
 ## 📸 Screenshots
 
-![App Screenshot](bmi_index/lib/assets/images/SS1.png)
-![App Screenshot](bmi_index/lib/assets/images/SS2.png)
-![App Screenshot](bmi_index/lib/assets/images/SS3.png)
+<div>
+  <img src="bmi_index/lib/assets/images/SS3.png" alt="SS3" width="270" height="500" style="display: inline-block; margin-right: 100;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="bmi_index/lib/assets/images/SS2.png" alt="SS2" width="270" height="500" style="display: inline-block; margin-right: 100;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="bmi_index/lib/assets/images/SS1.png" alt="SS1" width="270" height="500" style="display: inline-block;" />
+</div>
 
 
 ## 🛠️ Technologies Used
